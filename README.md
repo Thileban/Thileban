@@ -1,8 +1,27 @@
-<h1 align="center">Hi 👋, I'm Thileban Nagarasa</h1>
+<h1 align="center">
+Hi 👋, I'm Thileban Nagarasa
+<br>
 
-<h3 align="center">
-Windows Administration • IT Support • Electrical & Computer Engineer • Content Creator
-</h3>
+<a href="https://github.com/Thileban">
+Windows Administrator
+</a>
+•
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+IT Support
+</a>
+•
+
+<a href="https://youtube.com/@thilebantheengineer">
+Electrical & Computer Engineer
+</a>
+•
+
+<a href="https://youtube.com/@thileban">
+YouTuber
+</a>
+
+</h1>
 
 ---
 
