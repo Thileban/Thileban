@@ -7,7 +7,7 @@ Windows Administrator
 </a>
 •
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/thilebannagarasa/">
 IT Support
 </a>
 •
