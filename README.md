@@ -24,11 +24,11 @@ Technical Educator
 
 ## 👨‍💻 About Me
 
-I'm an Electrical & Computer Engineering graduate from the University of Windsor with an interest in IT Support and Windows Administration.
+I'm an Electrical & Computer Engineering graduate from the University of Windsor with an interest in IT Support, Windows Administration, and Software Development.
 
-I'm currently building hands-on experience through practical IT labs and documenting my work on GitHub.
+I'm currently building hands-on experience through practical IT labs, software projects, and technical problem-solving while documenting my work on GitHub.
 
-My current focus is **Windows Server, Active Directory, PowerShell, and Networking**.
+My current focus is **Windows Server, Active Directory, PowerShell, Networking, and IT Automation**.
 
 ---
 
@@ -40,7 +40,9 @@ This portfolio documents hands-on labs and projects I've completed while develop
 
 ### 🏢 Active Directory
 
-<!-- Add completed Active Directory projects here -->
+<!-- Example:
+- [Active Directory Home Lab](YOUR-LINK) — Built a Windows Server domain environment with users, groups, OUs, and Group Policy.
+-->
 
 ### 🖥️ Windows Server
 
@@ -64,6 +66,32 @@ This portfolio documents hands-on labs and projects I've completed while develop
 
 ---
 
+# 💻 Software Development Projects
+
+A collection of software projects demonstrating my programming, problem-solving, automation, and engineering skills.
+
+### 🐍 Python
+
+<!-- Example:
+- [System Information Tool](YOUR-LINK) — Python utility for collecting and displaying Windows system information.
+-->
+
+### ⚙️ C / C++
+
+<!-- Example:
+- [Project Name](YOUR-LINK) — Short description of what the project does.
+-->
+
+### 🌐 JavaScript / Web Development
+
+<!-- Example:
+- [Project Name](YOUR-LINK) — Short description of what the project does.
+-->
+
+> 🚧 Additional software development projects will be added as they are completed.
+
+---
+
 # 🛠️ Technical Skills
 
 ### Operating Systems
@@ -79,6 +107,13 @@ This portfolio documents hands-on labs and projects I've completed while develop
 - Hardware and software troubleshooting
 - Windows command-line tools
 - PC troubleshooting
+
+### Programming & Scripting
+
+- Python
+- C / C++
+- JavaScript
+- PowerShell
 
 ### Tools
 
